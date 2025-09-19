@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+joblib
+torch
+torchvision
+Pillow
+scikit-learn
+prophet
+statsmodels
+python-multipart
