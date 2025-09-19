@@ -11,3 +11,6 @@ scikit-learn
 prophet
 statsmodels
 python-multipart
+xgboost
+plotly
+statsmodels
